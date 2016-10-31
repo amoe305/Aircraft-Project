@@ -1,0 +1,4 @@
+mongod
+/lib
+/node_modules
+/data
